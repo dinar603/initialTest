@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //test line
 
         //somr more code and then some
+            
+            //03-Feb-2018  added text from GitHub
     }
 }
