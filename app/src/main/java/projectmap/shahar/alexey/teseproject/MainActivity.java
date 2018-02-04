@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
             
             //03-Feb-2018  added text from GitHub
 
-        //04-Feb-2018 branching
+        //04-Feb-2018 new branch
     }
 }
